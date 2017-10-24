@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import calculatorImg from "./calculator.png";
-
+//
 
 class Calculator extends Component {
 
